@@ -1,0 +1,4 @@
+﻿  General.cpp
+C:\Users\User\Desktop\PC1\pruebas de ensayo\General.cpp(96,41): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\User\Desktop\PC1\pruebas de ensayo\General.cpp(155,65): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  pruebas de ensayo.vcxproj -> C:\Users\User\Desktop\PC1\x64\Debug\pruebas de ensayo.exe
